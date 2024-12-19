@@ -29,7 +29,4 @@ HiAll is an innovative app designed to make group outings easier than ever. Whet
 
 To get started with HiAll, follow these steps:
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/HiAll.git
 
